@@ -1,0 +1,8 @@
+Port scan results 
+Time: 2026-10-31T00:05:20
+Target: 192.168.1.10 (192.168.1.10, private)
+Timeout: 2.0s
+Ports: 22, 80
+
+22/tcp error: Network is unreachable
+80/tcp error: Network is unreachable
